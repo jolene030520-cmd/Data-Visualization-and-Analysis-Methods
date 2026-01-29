@@ -36,7 +36,7 @@ G3:
 
 G4: 
 
-G5: 
+G5: 秸秆资源化利用方式生命周期碳减排效果评价:https://github.com/jolene030520-cmd/LCA-of-Carbon-Reduction-Evaluation-Analysis —— 童卓琳，李筱，李昊
 
 G6: 
 
